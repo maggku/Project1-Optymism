@@ -1,0 +1,40 @@
+.div-intro {
+    width: 1355px;
+    height: 1000px;
+    background-color: gainsboro;
+    margin: 5%;
+}
+
+.div-logos {
+    width: 1355px;
+    height: 100px;
+    background-color: rgb(216, 208, 193);
+    margin: 5%;
+}
+
+.div-products {
+    width: 1355px;
+    height: 1000px;
+    background-color: gainsboro;
+    margin: 5%;
+}
+
+.div-testymonials {
+    width: 1355px;
+    height: 300px;
+    background-color: oldlace;
+    margin: 5%;
+}
+.div-build {
+    width: 1355px;
+    height: 1000px;
+    background-color: gainsboro;
+    margin: 5%;
+}
+footer {
+    width: 1355px;
+    height: 200px;
+    background-color: oldlace;
+    margin: 5%;
+
+}
