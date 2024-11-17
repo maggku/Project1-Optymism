@@ -172,13 +172,19 @@ h1{
     gap: 448px;
     align-self: stretch;
     }
+
+
+    
+    
     /* Subscribe section */
+
+
     .subscribe-form {
-        display: flex !important;
-        flex-direction: row !important;
-        align-items: center !important;
-        justify-content: center !important;
-        gap: 10px !important;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
     }
 
     .email-input {
@@ -189,20 +195,20 @@ h1{
         width: 300px !important;
     }
 
-    .gradient2 .subscribe-button {
+    .subscribe-button {
         padding: 12px 24px !important;
         background-color: white !important;
         color: #012B69 !important;
         opacity: 0.5 !important;
         border-radius: 32px !important;
         border: none !important;
-        font-size: 16px !important;
-        cursor: pointer !important;
-        transition: background-color 0.3s ease !important;
+        font-size: 16px ;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
     }
 
-    .subscribe-form .subscribe-button:hover {
-        background-color: rgb(96, 62, 169 !important);
+    .subscribe-button:hover {
+        background-color: rgb(96, 62, 169);
         
     }
 
