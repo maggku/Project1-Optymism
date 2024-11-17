@@ -1,0 +1,231 @@
+body {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.gradient1 {
+    width: 1440px;
+    height: 1393px;
+    display: flex;
+    padding: 134px 200px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 158px;
+    align-self: stretch;
+    background: linear-gradient(180deg, #F4F4F5 0%, #0E0D0D 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.gradient2 {
+    width: 1440px;
+    height: 1393px;
+    display: flex;
+    height: 1321px;
+    padding: 157px 200px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 448px;
+    align-self: stretch;
+    background: linear-gradient(180deg, #030312 0%, #F13D1F 20.4%, #DEA67A 47.9%, #2B1722 61.4%, #021F5C 74.4%, #007CC0 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+/* Navbar styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 36px;
+    background-color: rgba(255, 255, 255, 0.50);
+    border-bottom: 1px solid #ddd;
+}
+
+/* Logo styling */
+.logo img {
+    height: 20px;
+    width: auto;
+}
+
+/* Navigation links */
+.nav-links {
+    display: flex;
+    gap: 15px;
+}
+
+.nav-button {
+    text-decoration: none;
+    color: #0E0D0D;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 15px;
+    border: 2px solid transparent;
+    border-radius: 16px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.nav-button:hover {
+    background-color: #0E0D0D;
+    color: #fff;
+    border-color: #0E0D0D;
+}
+
+h1{
+    align-self: stretch;
+    color: #000;
+    font-family: Inter;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 52.8px */
+
+}
+#hero_section p{
+    height: 118px;
+    width: 867px;
+    align-self: stretch;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140.625%; /* 22.5px */
+}
+.primary_button{
+    color: #FDFDFD;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    display: flex;
+    width: 210px;
+    height: 59px;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    border-radius: 32px;
+    background: #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+     /* 3 x section with product cards*/
+
+    .products{
+    display: flex;
+    width: 1040px;
+    justify-content: space-between;
+    align-items: flex-end;
+    }
+
+  h2{
+    align-self: stretch;
+    color: #000;
+
+    /* Link Optimism */
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  p{
+    height: 56px;
+    align-self: stretch;
+    color: #000;
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140.625%; /* 14.063px */
+    }
+    .card_text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+    align-self: stretch;
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    align-self: stretch;
+        }
+    .card_product{
+    display: flex;
+    height: 148px;
+    padding: 24px 36px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    flex-shrink: 0;
+    align-self: stretch;
+    }
+ /* build section*/
+    .build_section {
+    display: flex;
+    height: 1321px;
+    gap: 448px;
+    align-self: stretch;
+    }
+    /* Subscribe section */
+    .subscribe-form {
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: center !important;
+        gap: 10px !important;
+    }
+
+    .email-input {
+        padding: 10px !important;
+        font-size: 16px !important;
+        border-radius: 32px !important;
+        border: 2px solid #ccc !important;
+        width: 300px !important;
+    }
+
+    .gradient2 .subscribe-button {
+        padding: 12px 24px !important;
+        background-color: white !important;
+        color: #012B69 !important;
+        opacity: 0.5 !important;
+        border-radius: 32px !important;
+        border: none !important;
+        font-size: 16px !important;
+        cursor: pointer !important;
+        transition: background-color 0.3s ease !important;
+    }
+
+    .subscribe-form .subscribe-button:hover {
+        background-color: rgb(96, 62, 169 !important);
+        
+    }
+
+    
+
+
+ 
+footer {
+    width: 1440px;
+    height: 73px;
+    display: flex;
+    padding: 15px 190px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    align-self: stretch;
+    background: linear-gradient(0deg, #000 0%, #0E1C49 100%);
+}
+.box{
+    width: 163px;
+    height: 163px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+
+}
