@@ -12,23 +12,23 @@ This design process helped shape the structure and style of the final implementa
 
 ## Final Design Preview
 This is the final design as conceptualized in Figma:
-![Final Design](assets/Home-page-OPTYMISM.png)
+![Final Design](assets/images/Home-page-OPTYMISM.png)
 
 ## Final Project Screenshots
 ### Screenshot 1
-![Screenshot 1](assets/Project1OPTYMISM-Website1.png)
+![Screenshot 1](assets/images/Project1OPTYMISM-Website1.png)
 
 ### Screenshot 2
-![Screenshot 2](assets/Project1OPTYMISM-Website2.png)
+![Screenshot 2](assets/images/Project1OPTYMISM-Website2.png)
 
 ### Screenshot 3
-![Screenshot 3](assets/Project1OPTYMISM-Website3.png)
+![Screenshot 3](assets/images/Project1OPTYMISM-Website3.png)
 
 ### Screenshot 4
-![Screenshot 4](assets/Project1OPTYMISM-Website4.png)
+![Screenshot 4](assets/images/Project1OPTYMISM-Website4.png)
 
 ### Screenshot 5
-![Screenshot 5](assets/Project1OPTYMISM-Website5.png)
+![Screenshot 5](assets/images/Project1OPTYMISM-Website5.png)
 
 ## Features
 - **Navigation Bar**: A header with a logo on the left and navigation buttons on the right linking to different sections of the Landing Page.
