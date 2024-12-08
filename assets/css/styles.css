@@ -86,6 +86,27 @@ body {
     border-color: #0E0D0D;
 }
 
+h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; 
+
+}
+
+#hero_section p{
+    height: 118px;
+    width: 867px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140.625%; 
+}
+
 /* Disabling Old CSS Code with the CSS comment Tags */
 /*
 
@@ -102,7 +123,6 @@ h1{
 #hero_section p{
     height: 118px;
     width: 867px;
-    align-self: stretch;
     color: #000;
     font-family: Inter;
     font-size: 16px;
