@@ -60,15 +60,40 @@
 
 <div class="card-group">
     <div class="card">
-        <img src="..." class="card-img-top" alt="...">
+        <!-- Square as the top image replacement -->
+        <div class="card-img-top d-flex justify-content-center align-items-start">
+          <div id="square"></div>
+        </div>
         <div class="card-body">
           <h5 class="card-title">The OP Stack</h5>
-          <p class="card-text">The OP Stack is foundational to Optimism’s "Superchain" vision. The Superchain aims to unite multiple Layer 2 chains built with the OP Stack, creating a network of interoperable chains that share liquidity, security, and a similar code base.</p>
+          <p class="card-text">
+            The OP Stack is foundational to Optimism’s "Superchain" vision. The Superchain aims to unite multiple Layer 2 chains built with the OP Stack, creating a network of interoperable chains that share liquidity, security, and a similar code base.
+          </p>
         </div>
-    </div>
+      </div>
+      
 
     <div class="card">
-        <img src="..." class="card-img-top" alt="...">
+        <!-- Replacing the 2nd card <img> with the SVG code of a triangle from Figma-->
+        <div class="card-img-top d-flex justify-content-center align-items-start">
+        <svg xmlns="http://www.w3.org/2000/svg" width="97" height="84" viewBox="0 0 97 84" fill="none">
+            <g opacity="0.5" filter="url(#filter0_d_465_587)">
+              <path d="M48.5 0L92.2343 75.75H4.76572L48.5 0Z" fill="white"/>
+            </g>
+            <defs>
+              <filter id="filter0_d_465_587" x="0.765625" y="0" width="95.4688" height="83.75" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+                <feOffset dy="4"/>
+                <feGaussianBlur stdDeviation="2"/>
+                <feComposite in2="hardAlpha" operator="out"/>
+                <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+                <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_465_587"/>
+                <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_465_587" result="shape"/>
+              </filter>
+            </defs>
+          </svg>
+        </div>
         <div class="card-body">
           <h5 class="card-title">Optimistic Rollups</h5>
           <p class="card-text">Optimism uses Optimistic Rollups, a scaling solution that processes transactions off-chain and then submits bundled transactions to Ethereum’s main chain.</p>
@@ -76,8 +101,8 @@
     </div>
 
     <div class="card">
-        <!-- Replacing the <img> with the SVG code of an ellipse from Figma-->
-        <div class="card-img-top">
+        <!-- Replacing the 3rd card <img> with the SVG code of an ellipse from Figma-->
+        <div class="card-img-top d-flex justify-content-center align-items-start">
           <svg xmlns="http://www.w3.org/2000/svg" width="74" height="73" viewBox="0 0 74 73" fill="none">
             <g opacity="0.5" filter="url(#filter0_d_465_590)">
               <circle cx="37" cy="32.5" r="32.5" fill="white"/>
