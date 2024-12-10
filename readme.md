@@ -87,5 +87,10 @@ These screenshots show how the website looks after the responsive design updates
    ```bash
    git clone https://github.com/maggku/Project1-Optymism.git
 
+## Deployed Version
+
+   - **Live Version**: You can view the live website at [GitHub Pages Link](https://maggku.github.io/Project1-Optymism/).
+
+
 
 
