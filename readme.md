@@ -1,41 +1,3 @@
-
-
-
-## Final Design Preview
-This is the final design as conceptualized in Figma:
-![Final Design](assets/images/Home-page-OPTYMISM.png)
-
-## Final Project Screenshots
-
-
-## Features
-- **Navigation Bar**: A header with a logo on the left and navigation buttons on the right linking to different sections of the Landing Page.
-- **Hero Section**: An introduction to the topic with a styled heading and paragraph.
-- **Gradient Backgrounds**: Smooth gradient designs for multiple sections of the webpage.
-- **Products Section**: Cards displaying key features or topics.
-- **Subscribe Section**: A subscription form with email input and a styled button.
-- **Footer**: A footer with basic information.
-
-## Technologies Used
-- **HTML**: Structure of the webpage.
-- **CSS**: Styling for layout, colors, fonts, and responsiveness.
-- **Google Fonts**: Inter font for clean typography.
-- **Box Shadows and Gradients**: To enhance the design's appeal.
-
-## Tools and Methodology
-- **Designed in Figma**: This project utilized Figma to design the user interface and generate initial CSS code snippets. Figma's design-to-code feature was instrumental in creating the layout and visual styles. These generated styles were further customized to fit the specific needs of the project. 
-
-## How to Run
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/maggku/Project1-Optymism.git
-
-## Credits 
-- **Optymism Logo**:  Logo OPTYMISM.png
-- **Google Fonts**: Inter font for clean typography.
-- **Box Shadows and Gradients**: To enhance the design's appeal.
-- **Mosh Hamedani**:  This project incorporates code snippets and ideas inspired by the tutorial The Ultimate HTML5 & CSS3 Series: Part 3 by Mosh Hamedani. Mosh's comprehensive explanations and coding best practices significantly helped in structuring and styling this project.
-
 # PROJECT1 - OPTYMISM
 
 ## Project Description
@@ -77,17 +39,22 @@ These screenshots demonstrate how the website looked before the recent changes:
 ### Screenshot 5 (Old Version)
 ![Old Version 5](assets/images/Project1OPTYMISM-Website5.png)
 
+## Final Project Screenshots
+
 ### New Website (After Updates)
 These screenshots show how the website looks after the responsive design updates and simplifications:
 
 #### Screenshot 3 (New Version)
-![New Version 1](assets/images/New-Website-Screenshot1.png)
+![New Version 1](assets/images/Screenshot%202024-12-10%20054409.png)
 
 #### Screenshot 4 (New Version)
-![New Version 2](assets/images/New-Website-Screenshot2.png)
+![New Version 2](assets/images/Screenshot%202024-12-10%20054424.png)
 
 #### Screenshot 5 (New Version)
-![New Version 3](assets/images/New-Website-Screenshot3.png)
+![New Version 3](assets\images\Screenshot%202024-12-10%20054440.png)
+
+#### Screenshot 6 (New Version - Page linked to the buttons)
+![New Version 4](assets\images\Screenshot%202024-12-10%20054505.png)
 
 ## Features
 - **Navigation Bar**: A header with a logo on the left and navigation buttons on the right linking to different sections of the Landing Page.
@@ -107,6 +74,13 @@ These screenshots show how the website looks after the responsive design updates
 ## Tools and Methodology
 - **Designed in Figma**: This project utilized Figma to design the user interface and generate initial CSS code snippets. Figma’s design-to-code feature was instrumental in creating the layout and visual styles. These generated styles were further customized to fit the specific needs of the project.
 - **Bootstrap**: Bootstrap was used to make the design responsive, using its grid system, utility classes, and pre-built components.
+
+## Credits 
+- **Optymism Logo**:  Logo OPTYMISM.png
+- **Google Fonts**: Inter font for clean typography.
+- **Box Shadows and Gradients**: To enhance the design's appeal.
+- **Mosh Hamedani**:  This project incorporates code snippets and ideas inspired by the tutorial The Ultimate HTML5 & CSS3 Series: Part 3 by Mosh Hamedani. Mosh's comprehensive explanations and coding best practices significantly helped in structuring and styling this project.
+- **Figma**:  This project incorporates svg code snippets from Figma for Ellipse and Triangle images used in Cards.
 
 ## How to Run
 1. Clone this repository to your local machine:
