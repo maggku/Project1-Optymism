@@ -1,5 +1,22 @@
 # PROJECT1 - OPTYMISM
 
+# Optimism vs Arbitrum Ecosystems  
+
+This website focuses on **Optimism**, a Layer 2 solution designed to make **Ethereum** faster and cheaper. It compares **Optimism** and **Arbitrum** — both use **Optimistic Rollups** to solve Ethereum's high transaction fees and slow speeds.  
+
+## What is Ethereum?  
+Ethereum is a decentralized network that allows developers to build applications that run without intermediaries like banks or servers. It uses blockchain technology to securely record data and transactions, enabling **smart contracts** — self-executing programs that automate tasks.    
+
+## Who is this for?  
+- **Developers**: Building dApps on Ethereum using Layer 2 solutions.  
+- **Crypto Enthusiasts/Investors**: Learning about Optimism and exploring investment opportunities.  
+- **Existing Projects & DAOs**: Teams evaluating scalable and affordable Ethereum-based solutions.  
+- **Researchers/Analysts**: Studying Layer 2 technology and Ethereum scaling.  
+
+## Main Goal  
+To provide clear educational content and technical resources, catering to both beginners and developers as crypto concepts are still new to many.  
+
+
 ## Project Description
 This project is a modern webpage built with HTML, CSS, and Bootstrap. Initially, the website featured a gradient-styled layout and a **Subscribe Section** where users could input their email addresses to subscribe for updates. To improve usability, I made the website **responsive**, using **Bootstrap components** to make it mobile-friendly and accessible on all screen sizes. The gradient background and subscribe button were removed to simplify the design, and the website was deployed to GitHub Pages.
 
