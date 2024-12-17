@@ -78,6 +78,21 @@ These screenshots show how the website looks after the responsive design updates
 - **Mosh Hamedani**:  This project incorporates code snippets and ideas inspired by the tutorial The Ultimate HTML5 & CSS3 Series: Part 3 by Mosh Hamedani. Mosh's comprehensive explanations and coding best practices significantly helped in structuring and styling this project.
 - **Figma**:  This project incorporates svg code snippets from Figma for Ellipse and Triangle images used in Cards.
 
+# File Path Testing
+
+Here are 5 different file paths 
+
+| **Path Example**                                    | **Explanation**                                                       | **Test Result (Pass/Fail)** |
+|-----------------------------------------------------|-----------------------------------------------------------------------|----------------------------|
+| Clicking a 'learn' link in the navbar               | Directed to the Learn Hero Section                                    | Pass                       |
+| Clicking a 'products' link in the navbar            | Directed to the Products Section                                      | Pass                       |
+| Clicking a 'build' link in the navbar               | Directed to the Build Section                                         | Pass                       |
+| Clicking a 'learn' button in the hero section       | Directed to the learn.html page                                       | Pass                       |
+| Clicking a 'products' btn in the products section   | Directed to the video.html page                                       | Pass                       |
+| Clicking a 'build' button in the build section      | Directed to the hello.html page                                       | Pass                       |
+
+---
+
 ## How to Run
 1. Clone this repository to your local machine:
    ```bash
