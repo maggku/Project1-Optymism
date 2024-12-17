@@ -1,10 +1,8 @@
 # PROJECT1 - OPTYMISM
 
-# Optimism vs Arbitrum Ecosystems  
+# Optimism Ovewiew
 
-This website focuses on **Optimism**, a Layer 2 solution designed to make **Ethereum** faster and cheaper. It compares **Optimism** and **Arbitrum** — both use **Optimistic Rollups** to solve Ethereum's high transaction fees and slow speeds.  
-
-## What is Ethereum?  
+This website focuses on **Optimism**, a Layer 2 solution designed to make **Ethereum** faster and cheaper.
 Ethereum is a decentralized network that allows developers to build applications that run without intermediaries like banks or servers. It uses blockchain technology to securely record data and transactions, enabling **smart contracts** — self-executing programs that automate tasks.    
 
 ## Who is this for?  
@@ -36,25 +34,6 @@ This design process helped shape the final implementation and layout of the webs
 ## Final Design Preview
 This is the final design as conceptualized in Figma (after the changes were implemented):
 ![Final Design](assets/images/Home-page-OPTYMISM.png)
-
-## Screenshots
-### Old Website (Before Updates)
-These screenshots demonstrate how the website looked before the recent changes:
-
-### Screenshot 1 (Old Version)
-![Old Version 1](assets/images/Project1OPTYMISM-Website1.png)
-
-### Screenshot 2 (Old Version)
-![Old Version 2](assets/images/Project1OPTYMISM-Website2.png)
-
-### Screenshot 3 (Old Version)
-![Old Version 3](assets/images/Project1OPTYMISM-Website3.png)
-
-### Screenshot 4 (Old Version)
-![Old Version 4](assets/images/Project1OPTYMISM-Website4.png)
-
-### Screenshot 5 (Old Version)
-![Old Version 5](assets/images/Project1OPTYMISM-Website5.png)
 
 ## Final Project Screenshots
 
