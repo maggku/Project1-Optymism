@@ -1,6 +1,6 @@
 # PROJECT1 - OPTYMISM
 
-# Optimism Ovewiew
+# Optimism Oveview
 
 This website focuses on **Optimism**, a Layer 2 solution designed to make **Ethereum** faster and cheaper.
 Ethereum is a decentralized network that allows developers to build applications that run without intermediaries like banks or servers. It uses blockchain technology to securely record data and transactions, enabling **smart contracts** — self-executing programs that automate tasks.    
