@@ -95,17 +95,15 @@ Here are 5 different file paths
 
 ## Summary of Errors and Fixes
 
-### Error 1:  Quote " in attribute name.
-- **Validator Message:**  
-  *" Quote " in attribute name. Probable cause: Matching quote missing somewhere earlier.
+### Errors pointed by a Validator
 
-At line 8, column 144"*
-- **Cause:** Using "" in attribute name
-- **Fix:** Deleting ""
-- **Before:**
-  ```<meta name="description" content Optimisms open-source OP Stack enables developers to easily create scalable Layer 2 applications, and its "Superchain" vision aims to connect multiple Layer 2s, fostering a network of interoperable chains on Ethereum. Ethereum's main chain'>
-  **Before:**
-  ```<meta name="description" content Optimisms open-source OP Stack enables developers to easily create scalable Layer 2 applications, and its Superchain vision aims to connect multiple Layer 2s, fostering a network of interoperable chains on Ethereum. Ethereum's main chain'>
+- **Error 1 Message:**
+Error: Bad value assets/images/Logo OPTIMISM.png for attribute src on element img: Illegal character in path segment: space is not allowed.
+
+From line 25, column 9; to line 25, column 71
+
+
+>↩        <img src="assets/images/Logo OPTIMISM.png" alt="Optymism Logo">↩    <
   
 
 ## How to Run
