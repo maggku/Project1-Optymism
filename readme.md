@@ -103,7 +103,7 @@ Error: Bad value assets/images/Logo OPTIMISM.png for attribute src on element im
 From line 25, column 9; to line 25, column 71
 
 
->↩        <img src="assets/images/Logo OPTIMISM.png" alt="Optymism Logo">↩    <
+>↩        <img src="assets/images/LogoOPTIMISM.png" alt="Optymism Logo">↩    <
   
 
 ## How to Run
