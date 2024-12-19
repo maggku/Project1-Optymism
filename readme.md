@@ -93,6 +93,21 @@ Here are 5 different file paths
 
 ---
 
+## Summary of Errors and Fixes
+
+### Error 1:  Quote " in attribute name.
+- **Validator Message:**  
+  *" Quote " in attribute name. Probable cause: Matching quote missing somewhere earlier.
+
+At line 8, column 144"*
+- **Cause:** Using "" in attribute name
+- **Fix:** Deleting ""
+- **Before:**
+  ```<meta name="description" content Optimisms open-source OP Stack enables developers to easily create scalable Layer 2 applications, and its "Superchain" vision aims to connect multiple Layer 2s, fostering a network of interoperable chains on Ethereum. Ethereum's main chain'>
+  **Before:**
+  ```<meta name="description" content Optimisms open-source OP Stack enables developers to easily create scalable Layer 2 applications, and its Superchain vision aims to connect multiple Layer 2s, fostering a network of interoperable chains on Ethereum. Ethereum's main chain'>
+  
+
 ## How to Run
 1. Clone this repository to your local machine:
    ```bash
