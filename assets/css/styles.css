@@ -60,6 +60,7 @@ body {
 /* Navbar styling */
 .navbar {
     position: fixed;
+    width: 90%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -106,6 +107,10 @@ h1{
     font-weight: 400;
     line-height: 120%; 
 
+}
+
+#hero_section {
+    margin-top: 200px;
 }
 
 #hero_section p{
