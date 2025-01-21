@@ -103,8 +103,44 @@ Error: Bad value assets/images/Logo OPTIMISM.png for attribute src on element im
 From line 25, column 9; to line 25, column 71
 
 
->↩        <img src="assets/images/LogoOPTIMISM.png" alt="Optymism Logo">↩    <
+ - **Error 2 Message:** 
+Error: Bad value assets\pages\learn.html for attribute href on element a: Backslash ("\") used as path segment delimiter.
+
+From line 46, column 13; to line 46, column 62
+ 
+
+ - **Error 3 Message:** 
+Error: The element button must not appear as a descendant of the a element.
+
+From line 47, column 15; to line 47, column 45
+
+
+ - **Error 4 Message:** 
+Error: Bad value assets\pages\hello.html for attribute href on element a: Backslash ("\") used as path segment delimiter.
+
+From line 136, column 3; to line 136, column 52
+
+
+
+ - **Error 5 Message:** 
+Error: The element button must not appear as a descendant of the a element.
+
+From line 137, column 5; to line 137, column 35
+
+
+- **Error 6 Message:** 
+Error: Bad value assets\pages\hello.html for attribute href on element a: Backslash ("\") used as path segment delimiter.
+
+From line 147, column 13; to line 147, column 62
   
+
+- **Error 7 Message:** 
+Error: The element button must not appear as a descendant of the a element.
+
+From line 148, column 15; to line 148, column 45
+
+
+
 
 ## How to Run
 1. Clone this repository to your local machine:
