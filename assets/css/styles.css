@@ -111,6 +111,7 @@ h1{
 
 #hero_section {
     margin-top: 250px;
+    margin-bottom: 150px;
 }
 
 #hero_section p{
@@ -126,6 +127,10 @@ h1{
    
 }
 
+
+.card {
+    border: 0px;
+}
 
 #products_section {
     margin-top: 50px; 
