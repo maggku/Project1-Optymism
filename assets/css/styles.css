@@ -31,31 +31,7 @@ body {
   }
   
   
-.gradient1 {
-    width: 1440px;
-    height: 1393px;
-    display: flex;
-    padding: 134px 200px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 158px;
-    align-self: stretch;
-    background: linear-gradient(180deg, #F4F4F5 0%, #0E0D0D 100%);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.gradient2 {
-    width: 1440px;
-    height: 1393px;
-    display: flex;
-    height: 1321px;
-    padding: 157px 200px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 448px;
-    align-self: stretch;
-    background: linear-gradient(180deg, #030312 0%, #F13D1F 20.4%, #DEA67A 47.9%, #2B1722 61.4%, #021F5C 74.4%, #007CC0 100%);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-}
+
 
 /* Navbar styling */
 .navbar {
