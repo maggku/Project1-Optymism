@@ -52,6 +52,11 @@ body {
     width: auto;
 }
 
+/*video styling*/
+.video {
+    margin-top: 100px;
+}
+
 /* Navigation links */
 .nav-links {
     display: flex;
