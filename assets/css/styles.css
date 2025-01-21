@@ -57,6 +57,13 @@ body {
     margin-top: 100px;
 }
 
+/*image styling*/
+.image {
+    margin-top: 100px;
+}
+
+
+
 /* Navigation links */
 .nav-links {
     display: flex;
