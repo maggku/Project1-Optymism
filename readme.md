@@ -2,8 +2,10 @@
 
 # Optimism Oveview
 
-This website focuses on **Optimism**, a Layer 2 solution designed to make **Ethereum** faster and cheaper.
-Ethereum is a decentralized network that allows developers to build applications that run without intermediaries like banks or servers. It uses blockchain technology to securely record data and transactions, enabling **smart contracts** — self-executing programs that automate tasks.    
+Optimism is a cryptocurrency project designed to scale blockchain technology. The first implementation of blockchain technology was introduced with Bitcoin, which brought a decentralized currency that is trustless, transparent, and resistant to manipulation. This groundbreaking idea quickly gained traction among programmers, inspiring the concept of a decentralized internet where data is stored across a network of nodes rather than relying on a centralized server. This decentralized approach promotes fairness and removes single points of control.
+The vision of a decentralized internet was first realized by Vitalik Buterin, who created Ethereum—the first blockchain to support decentralized applications (dApps). Optimism aims to scale Ethereum by providing a solution that makes transactions cheaper and faster.
+Currently, the Optimism website is complex and challenging to navigate. My goal is to simplify it for better user experience and accessibility.
+    
 
 ## Who is this for?  
 - **Developers**: Building dApps on Ethereum using Layer 2 solutions.  
