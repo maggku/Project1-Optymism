@@ -35,7 +35,7 @@ This design process helped shape the final implementation and layout of the webs
 
 ## Final Design Preview
 This is the final design as conceptualized in Figma (after the changes were implemented):
-![Final Design](assets/images/Home-page-OPTYMISM.png)
+![Final Design](assets/images/hero-design.png)
 
 ## Final Project Screenshots
 
