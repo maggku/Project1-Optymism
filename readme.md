@@ -42,17 +42,15 @@ This is the final design as conceptualized in Figma (after the changes were impl
 ### New Website (After Updates)
 These screenshots show how the website looks after the responsive design updates and simplifications:
 
-#### Screenshot 3 (New Version)
-![New Version 1](assets/images/Screenshot%202024-12-10%20054409.png)
+#### Hero-section (New Version)
+![New Version 1](assets/images/hero-section.png)
 
-#### Screenshot 4 (New Version)
-![New Version 2](assets/images/Screenshot%202024-12-10%20054424.png)
+#### Products-section (New Version)
+![New Version 2](assets/images/product-section.png)
 
-#### Screenshot 5 (New Version)
-![New Version 3](assets\images\Screenshot%202024-12-10%20054440.png)
+#### Build-section (New Version)
+![New Version 3](assets/images/build-section.png)
 
-#### Screenshot 6 (New Version - Page linked to the buttons)
-![New Version 4](assets\images\Screenshot%202024-12-10%20054505.png)
 
 ## Features
 - **Navigation Bar**: A header with a logo on the left and navigation buttons on the right linking to different sections of the Landing Page.
