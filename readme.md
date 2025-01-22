@@ -42,15 +42,26 @@ This is the final design as conceptualized in Figma (after the changes were impl
 ### New Website (After Updates)
 These screenshots show how the website looks after the responsive design updates and simplifications:
 
-#### Hero-section (New Version)
+#### Homepage-Hero-section (New Version)
 ![New Version 1](assets/images/hero-section.png)
 
-#### Products-section (New Version)
+#### Homepage-Products-section (New Version)
 ![New Version 2](assets/images/product-section.png)
 
-#### Build-section (New Version)
+#### Homepage-Build-section (New Version)
 ![New Version 3](assets/images/build-section.png)
 
+#### Learn-page-image (New Version)
+![New Version 1](assets/images/learn-image.png)
+
+#### Learn-page-content (New Version)
+![New Version 1](assets/images/learn-content.png)
+
+#### Build-page-image (New Version)
+![New Version 1](assets/images/build-image.png)
+
+#### Products-page-content (New Version)
+![New Version 1](assets/images/products-content.png)
 
 ## Features
 - **Navigation Bar**: A header with a logo on the left and navigation buttons on the right linking to different sections of the Landing Page.
@@ -84,11 +95,11 @@ Here are 5 different file paths
 
 | **Path Example**                                    | **Explanation**                                                       | **Test Result (Pass/Fail)** |
 |-----------------------------------------------------|-----------------------------------------------------------------------|----------------------------|
-| Clicking a 'learn' link in the navbar               | Directed to the Learn Hero Section                                    | Pass                       |
-| Clicking a 'products' link in the navbar            | Directed to the Products Section                                      | Pass                       |
-| Clicking a 'build' link in the navbar               | Directed to the Build Section                                         | Pass                       |
+| Clicking a 'learn' link in the navbar               | Directed to the Learn Page                                            | Pass                       |
+| Clicking a 'products' link in the navbar            | Directed to the Products Page                                         | Pass                       |
+| Clicking a 'build' link in the navbar               | Directed to the Build Page                                            | Pass                       |
 | Clicking a 'learn' button in the hero section       | Directed to the learn.html page                                       | Pass                       |
-| Clicking a 'products' btn in the products section   | Directed to the video.html page                                       | Pass                       |
+| Clicking a 'products' btn in the products section   | Directed to the build.html page                                       | Pass                       |
 | Clicking a 'build' button in the build section      | Directed to the hello.html page                                       | Pass                       |
 
 ---
