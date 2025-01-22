@@ -150,6 +150,15 @@ Error: The element button must not appear as a descendant of the a element.
 
 From line 148, column 15; to line 148, column 45
 
+#### Errors- HTML
+![New Version 1](assets/images/html-errors.png)
+
+#### HTML Validator (PASS)
+![New Version 1](assets/images/html-validator-pass.png)
+
+#### CSS VALIDATOR (PASS)
+![New Version 1](assets/images/css-validator.png)
+
 
 
 
