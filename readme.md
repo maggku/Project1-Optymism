@@ -35,7 +35,7 @@ This design process helped shape the final implementation and layout of the webs
 
 ## Final Design Preview
 This is the final design as conceptualized in Figma (after the changes were implemented):
-![Final Design](assets/images/hero-design.png)
+![Final Design](assets/images/home-page.png)
 
 ## Final Project Screenshots
 
@@ -101,6 +101,11 @@ Here are 5 different file paths
 | Clicking a 'learn' button in the hero section       | Directed to the learn.html page                                       | Pass                       |
 | Clicking a 'products' btn in the products section   | Directed to the build.html page                                       | Pass                       |
 | Clicking a 'build' button in the build section      | Directed to the hello.html page                                       | Pass                       |
+| Changing the size of the screen on the Home page    | Checking for responsivness                                            | Pass                       |
+| Changing the size of the screen on the Learn page   | Checking for responsivness                                            | Pass                       |     
+| Changing the size of the screen on the Products page| Checking for responsivness                                            | Pass                       |
+| Changing the size of the screen on the Build page   | Checking for responsivness                                            | Pass                       |                  |
+
 
 ---
 
@@ -169,8 +174,57 @@ From line 148, column 15; to line 148, column 45
 
 ## Deployed Version
 
+   - **Deployment**:
+   1. Log into GitHub
+   2. From the list of repositories on the screen, select **Project1-Optymism**.
+   3. From the menu items near the top of the page, select **Settings**.
+   4. Scroll down to the **GitHub Pages** section.
+   5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**.
+   6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+   7. Scroll bak to the **GitHub Pages** section to retrieve the link to the deployed website.
+
+ 
    - **Live Version**: You can view the live website at [GitHub Pages Link](https://maggku.github.io/Project1-Optymism/).
 
 
+
+### How to run this project locally
+
+To clone this project from Gitpod you will need:
+
+1. A github account.
+2. Use the Chrome browser.
+
+Then follow these steps:
+
+1. Install the Gitpod Browset Extensions for Chrome.
+2. After installation, restart the browser.
+3. Log into Gitpod with your Gitpod account.
+4. Navigate to the [Project GitHub repository](https://maggku.github.io/Project1-Optymism/).
+5. Click the green **Gitpod** button in the top right corner of the repository.
+6. This will trigger an new Gitpod workspace to be created from the code in GitHub where you can work locally.
+
+To work on the project code within a local IDE such as VSCode:
+
+1. Follow this link to the [Project GitHub repository](https://maggku.github.io/Project1-Optymism/).
+2. Under the repository name, click "Clone or download".
+3. In the Clone with HTTP's section, copy the URL for the repository.
+4. In your local IDE open Git Bash.
+5. Change the current working directory to the location where you want the clone directory to be made.
+6. Type 'git clone', and then paste the URL you copied in step 3.
+
+### Heroku Deployment
+
+1. Create a requirements.txt file using the terminal command pip freeze > requirements.txt.
+2. Create a Procfile with the terminal command echo web: python app.py > Procfile.
+3. git add and git commit the new requirements and Procfile and then git push the project to GitHub.
+4. Create a new app on the Heroku website by clicking the "New" button in your dashboard. Give it a name and set the region to Europe.
+5. From the Heroku dashboard of your newly created application, click on Deploy > "Deployment method" and select GitHub.
+6. Confirm the linking of the Heroku App to the correct GitHub repository.
+7. In the Heroku dashboard for the application, click on "Settings" > "Reveal Config Vars".
+
+
+
+  
 
 
